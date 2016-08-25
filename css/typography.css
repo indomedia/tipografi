@@ -20,9 +20,8 @@ ul.bullet-9 li {background: url(../images/typo/bullet9.png) 0 0px no-repeat;}
 blockquote {display: block;background: url(../images/typo/blockquote-start.png) 10px 5px no-repeat;padding: 0px 20px 0 48px;margin: 20px 0;width: auto;color: #666;border: 0;font-style: italic;}
 blockquote p {padding: 0 32px 0 0;margin-top: 0;background: url(../images/typo/blockquote-last.png) 100% 100% no-repeat;}
 
-.post-body {margin-top: 10px;background: url(../images/typo/list-divider.png) 0 100% repeat-x;}
-.post-body h2 {background: url(../images/typo/style-h3.png) no-repeat;font-size: 120%;text-transform: uppercase;height: 30px; padding: 5px 0 5px 38px;}
-.h3 {background: url(../images/typo/style-h3.png) no-repeat;font-size: 120%;text-transform: uppercase;height: 30px; padding: 5px 0 5px 38px;}
+.post-body, .entry-content {margin-top: 10px;background: url(../images/typo/list-divider.png) 0 100% repeat-x;}
+.post-body h2, .entry-content h2 {background: url(../images/typo/style-h3.png) no-repeat;font-size: 120%;text-transform: uppercase;height: 30px; padding: 5px 0 5px 38px;}
 
 
 .penting {border: 1px solid #E5E5E5;background: url(../images/typo/important.png) repeat-x 0 100%;padding: 15px;margin: 25px 0 10px 0;position: relative;}
