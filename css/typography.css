@@ -23,8 +23,8 @@ blockquote p {padding: 0 32px 0 0;margin-top: 0;background: url(../images/typo/b
 
 .judul {margin-top: 10px;background: url(../images/typo/list-divider.png) 0 100% repeat-x;}
 #utama .h2 {font-size: 120%;text-transform: uppercase;height: 30px; padding: 5px 0 5px 38px;}
-.h2 {background: url(../images/style1/mainbody/style-h3.png) no-repeat;}
-.componentheading {font-size: 120%;text-transform: uppercase;height: 30px; padding: 5px 0 5px 38px;background: url(../images/typo/style-h3.png) no-repeat;}
+.h2 {background: url(../images/typo/style-h3.png) no-repeat;}
+
 
 
 .important {border: 1px solid #E5E5E5;background: url(../images/typo/important.png) repeat-x 0 100%;padding: 15px;margin: 25px 0 10px 0;position: relative;}
