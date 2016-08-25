@@ -23,12 +23,8 @@ blockquote p {padding: 0 32px 0 0;margin-top: 0;background: url(../images/typo/b
 
 .component-header {margin-top: 10px;background: url(../images/typo/list-divider.png) 0 100% repeat-x;}
 #main-body .componentheading {font-size: 120%;text-transform: uppercase;height: 30px; padding: 5px 0 5px 38px;}
-.componentheading {background: url(../images/style1/mainbody/style-h3.png) no-repeat;}
-.style2 #main-body .componentheading {background: url(../images/style2/mainbody/style-h3.png) no-repeat;}
-.style3 #main-body .componentheading {background: url(../images/style3/mainbody/style-h3.png) no-repeat;}
-.style4 #main-body .componentheading {background: url(../images/style4/mainbody/style-h3.png) no-repeat;}
-.style5 #main-body .componentheading {background: url(../images/style5/mainbody/style-h3.png) no-repeat;}
-.style6 #main-body .componentheading {background: url(../images/style6/mainbody/style-h3.png) no-repeat;}
+.componentheading {background: url(../images/typo/style-h3.png) no-repeat;}
+
 
 .important {border: 1px solid #E5E5E5;background: url(../images/typo/important.png) repeat-x 0 100%;padding: 15px;margin: 25px 0 10px 0;position: relative;}
 span.important-title {background: #fff;color: #376976;position: absolute;display: block;top: -0.8em;left: 10px;padding: 3px 8px;font-size: 120%;}
