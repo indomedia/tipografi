@@ -21,8 +21,7 @@ pre {padding: 10px;overflow: auto;background: #F9F1ED;border-bottom: 1px solid #
 blockquote {display: block;background: url(../images/typo/blockquote-start.png) 10px 5px no-repeat;padding: 0px 20px 0 48px;margin: 20px 0;width: auto;color: #666;border: 0;font-style: italic;}
 blockquote p {padding: 0 32px 0 0;margin-top: 0;background: url(../images/typo/blockquote-last.png) 100% 100% no-repeat;}
 
-.judul {margin-top: 10px;background: url(../images/typo/list-divider.png) 0 100% repeat-x;}
-#utama .h2 {font-size: 120%;text-transform: uppercase;height: 30px; padding: 5px 0 5px 38px;}
+.judul {margin-top: 10px;background: url(../images/typo/list-divider.png) 0 100% repeat-x;font-size: 120%;text-transform: uppercase;height: 30px; padding: 5px 0 5px 38px;}
 .h2 {background: url(../images/typo/style-h3.png) no-repeat;}
 
 
