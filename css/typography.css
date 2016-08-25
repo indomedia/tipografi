@@ -15,45 +15,44 @@ ul.bullet-7 li {background: url(../images/typo/bullet7.png) 0 1px no-repeat;}
 ul.bullet-8 li {background: url(../images/typo/bullet8.png) 0 0px no-repeat;}
 ul.bullet-9 li {background: url(../images/typo/bullet9.png) 0 0px no-repeat;}
 
-pre {padding: 10px;overflow: auto;background: #F9F1ED;border-bottom: 1px solid #DCD7D4;border-right: 1px solid #DCD7D4;color: #AC3400;font-style: italic;}
 
-.quotes {background: url(../images/typo/blockquote.png) 0 100% repeat-x;border-bottom: 1px solid #E5E5E5;border-right: 1px solid #E5E5E5;}
+.kutipan {background: url(../images/typo/blockquote.png) 0 100% repeat-x;border-bottom: 1px solid #E5E5E5;border-right: 1px solid #E5E5E5;}
 blockquote {display: block;background: url(../images/typo/blockquote-start.png) 10px 5px no-repeat;padding: 0px 20px 0 48px;margin: 20px 0;width: auto;color: #666;border: 0;font-style: italic;}
 blockquote p {padding: 0 32px 0 0;margin-top: 0;background: url(../images/typo/blockquote-last.png) 100% 100% no-repeat;}
 
 .judul {margin-top: 10px;background: url(../images/typo/list-divider.png) 0 100% repeat-x;}
-.h2 {background: url(../images/typo/style-h3.png) no-repeat;font-size: 120%;text-transform: uppercase;height: 30px; padding: 5px 0 5px 38px;}
+.judul h2 {background: url(../images/typo/style-h3.png) no-repeat;font-size: 120%;text-transform: uppercase;height: 30px; padding: 5px 0 5px 38px;}
 
 
 
-.important {border: 1px solid #E5E5E5;background: url(../images/typo/important.png) repeat-x 0 100%;padding: 15px;margin: 25px 0 10px 0;position: relative;}
-span.important-title {background: #fff;color: #376976;position: absolute;display: block;top: -0.8em;left: 10px;padding: 3px 8px;font-size: 120%;}
+.penting {border: 1px solid #E5E5E5;background: url(../images/typo/important.png) repeat-x 0 100%;padding: 15px;margin: 25px 0 10px 0;position: relative;}
+span.judul-penting {background: #fff;color: #376976;position: absolute;display: block;top: -0.8em;left: 10px;padding: 3px 8px;font-size: 120%;}
 
-span.number-square, span.number-circle {color: #666;display: block;font-size: 170%;float: left;text-align: center;margin-right: 10px;padding-top: 2px;height:32px; width: 32px;padding-bottom:10px;line-height:25px;}
-span.number-square {background: url(../images/typo/number-square.png) no-repeat;}
-span.number-circle {background: url(../images/typo/number-circle.png) no-repeat;}
+span.angka-kotak, span.angka-bulat {color: #666;display: block;font-size: 170%;float: left;text-align: center;margin-right: 10px;padding-top: 2px;height:32px; width: 32px;padding-bottom:10px;line-height:25px;}
+span.angka-kotak {background: url(../images/typo/number-square.png) no-repeat;}
+span.angka-kotak {background: url(../images/typo/number-circle.png) no-repeat;}
 
-span.highlight {color: #AC3400;background: #f9f1ed;font-style: italic;}
-span.highlight-bold {font-size: 120%;font-weight: bold;line-height:150%;}
+span.sorot {color: #AC3400;background: #f9f1ed;font-style: italic;}
+span.sorot-tebal {font-size: 120%;font-weight: bold;line-height:150%;}
 
-p.marker {padding: 10px;border-top: 1px solid #ECECEC;border-bottom: 1px solid #ECECEC;}
+p.tanda {padding: 10px;border-top: 1px solid #ECECEC;border-bottom: 1px solid #ECECEC;}
 
 p.dropcap {background: url(../images/typo/list-divider.png) 0 100% repeat-x;padding-bottom: 10px;}
 span.dropcap {font-size: 400%;margin: 0px 4px 0 0;line-height: 100%;color: #333;float: left;display: block;}
 
-div.highlight1 {background: #f8f8f8 url(../images/typo/highlight1.jpg) 0 0 no-repeat;border-bottom: 1px solid #E5E5E5;border-right: 1px solid #E5E5E5; padding: 15px 15px 0 35px; margin: 15px 0;}
-div.highlight2 {padding: 15px 15px 0 35px; margin: 15px 0;}
-.style1 div.highlight2 {background: #EEF4F4 url(../images/typo/highlight2-1.jpg) 0 0 no-repeat;border-bottom: 1px solid #D6DFE4;border-right: 1px solid #D6DFE4;}
-.style2 div.highlight2 {background: #FFFAF1 url(../images/typo/highlight2-2.jpg) 0 0 no-repeat;border-bottom: 1px solid #F4EDDB;border-right: 1px solid #F4EDDB;}
-.style3 div.highlight2 {background: #EFEFEF url(../images/typo/highlight2-3.jpg) 0 0 no-repeat;border-bottom: 1px solid #E6E6E6;border-right: 1px solid #E6E6E6;}
-.style4 div.highlight2 {background: #EEF4F4 url(../images/typo/highlight2-4.jpg) 0 0 no-repeat;border-bottom: 1px solid #D6DFE4;border-right: 1px solid #D6DFE4;}
-.style5 div.highlight2 {background: #F3F3F3 url(../images/typo/highlight2-5.jpg) 0 0 no-repeat;border-bottom: 1px solid #E7E7E7;border-right: 1px solid #E7E7E7;}
-.style6 div.highlight2 {background: #F7F6F1 url(../images/typo/highlight2-6.jpg) 0 0 no-repeat;border-bottom: 1px solid #ECE4D7;border-right: 1px solid #ECE4D7;}
+div.sorot1 {background: #f8f8f8 url(../images/typo/highlight1.jpg) 0 0 no-repeat;border-bottom: 1px solid #E5E5E5;border-right: 1px solid #E5E5E5; padding: 15px 15px 0 35px; margin: 15px 0;}
+div.sorot2 {padding: 15px 15px 0 35px; margin: 15px 0;}
+div.sorot3 {background: #EEF4F4 url(../images/typo/highlight2-1.jpg) 0 0 no-repeat;border-bottom: 1px solid #D6DFE4;border-right: 1px solid #D6DFE4;}
+div.sorot4 {background: #FFFAF1 url(../images/typo/highlight2-2.jpg) 0 0 no-repeat;border-bottom: 1px solid #F4EDDB;border-right: 1px solid #F4EDDB;}
+div.sorot5 {background: #EFEFEF url(../images/typo/highlight2-3.jpg) 0 0 no-repeat;border-bottom: 1px solid #E6E6E6;border-right: 1px solid #E6E6E6;}
+div.sorot6 {background: #EEF4F4 url(../images/typo/highlight2-4.jpg) 0 0 no-repeat;border-bottom: 1px solid #D6DFE4;border-right: 1px solid #D6DFE4;}
+div.sorot7 {background: #F3F3F3 url(../images/typo/highlight2-5.jpg) 0 0 no-repeat;border-bottom: 1px solid #E7E7E7;border-right: 1px solid #E7E7E7;}
+div.sorot8 {background: #F7F6F1 url(../images/typo/highlight2-6.jpg) 0 0 no-repeat;border-bottom: 1px solid #ECE4D7;border-right: 1px solid #ECE4D7;}
 
-span.inset-left {float: left;margin-right: 15px;}
-span.inset-right {float: right;margin-left: 15px;}
-span.inset-right-title, span.inset-left-title {background: #fff;color: #AC3400;position: absolute;display: block;top: -15px;left: 10px;padding: 3px 8px;font-size: 100%;font-weight: bold;}
-span.inset-left, span.inset-right {display: block;padding: 12px 8px 8px 8px;width: 20%;font-size: 100%;font-style: italic;margin-top: 25px;position: relative;border: 1px solid #E5E5E5;background: url(../images/typo/important.png) repeat-x 0 100%;color: #333;text-align: center;}
+span.inset-kiri {float: left;margin-right: 15px;}
+span.inset-kanan {float: right;margin-left: 15px;}
+span.judul-inset-kanan, span.judul-inset-kiri {background: #fff;color: #AC3400;position: absolute;display: block;top: -15px;left: 10px;padding: 3px 8px;font-size: 100%;font-weight: bold;}
+span.inset-kiri, span.inset-kanan {display: block;padding: 12px 8px 8px 8px;width: 20%;font-size: 100%;font-style: italic;margin-top: 25px;position: relative;border: 1px solid #E5E5E5;background: url(../images/typo/important.png) repeat-x 0 100%;color: #333;text-align: center;}
 
 div.attention, div.alert,  div.notice, div.download, div.approved, div.media, div.note, div.cart, div.camera, div.doc {display: block;margin: 15px 0;}
 div.attention .icon, div.alert .icon,  div.notice .icon, div.download .icon, div.approved .icon, div.media .icon, div.note .icon, div.cart .icon, div.camera .icon, div.doc .icon {display: block;padding: 8px 10px 8px 36px;margin: 15px 0;}
